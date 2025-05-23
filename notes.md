@@ -40,6 +40,14 @@ https://www.usenix.org/conference/nsdi22/presentation/weng
 
 https://www.usenix.org/conference/nsdi24/presentation/jiang-ziheng
 
+## Performance
+
+https://www.kaggle.com/datasets/ziya07/smart-meter-electricity-consumption-dataset
+
+https://data.openei.org/submissions/180#:~:text=This%20project%20estimates%20hourly%20demand,a%20series%20of%20csv%20files
+
+https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
+
 
 
 
